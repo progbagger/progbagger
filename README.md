@@ -5,6 +5,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/progbagger?theme=dark&font=Fira%20Mono&ext=heatmap)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=progbagger&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=progbagger&layout=compact&theme=transparent)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=progbagger&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
